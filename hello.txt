@@ -1,4 +1,3 @@
-wangguoliang testing by hheafsdjljfs
-a
-b
-c
+<?php
+echo 1;
+?>
